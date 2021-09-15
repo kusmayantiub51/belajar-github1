@@ -1,3 +1,6 @@
 Rencana belajar github 
 Membuat Akun github 
 Membuat repository
+Membuat Commit
+Membuat Branch
+Membuat Merge
