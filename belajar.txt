@@ -3,4 +3,9 @@ Membuat repository
 Membuat Commit
 Membuat Branch
 Membuat Merge
-Membuat Frouk
+Rencana belajar OOP
+- Belajar Konsep OOP
+- Belajar CodeIgniter
+- Belajar Enterprise Architecture
+- Belajar Koneksi Database 
+- Belajar Debuging 
