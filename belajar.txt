@@ -12,8 +12,11 @@ Rencana belajar OOP
 Membuat Project Perpustakaan :
 - Membuat Fitur Login 
 - Membuat Fitur Data Buku 
+- Membuat Fitur Data Jurnal 
 - Membuat Fitur Peminjaman Buku 
-- Membuat Fitur Pengembalian Buku
 - Membuat Fitur Laporan Peminjaman 
+- Membuat Fitur Laporan Denda
+- Membuat Fitur Laporan Anggota
+- Membuat Fitur Pengembalian Buku
 - Membuat Firur Help 
-- Membuat Fitur Q&A
+- Membuat Firur Q&A
