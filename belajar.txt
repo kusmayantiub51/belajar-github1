@@ -14,8 +14,9 @@ Membuat Project Perpustakaan :
 - Membuat Fitur Data Buku 
 - Membuat Fitur Data Jurnal 
 - Membuat Fitur Peminjaman Buku 
-- Membuat Fitur Pengembalian Buku
-- Membuat Fitur Laporan Peminjaman
+- Membuat Fitur Laporan Peminjaman 
 - Membuat Fitur Laporan Denda
-- Membuat Firur Q&A
 - Membuat Fitur Laporan Anggota
+- Membuat Fitur Pengembalian Buku
+- Membuat Firur Help 
+- Membuat Firur Q&A
