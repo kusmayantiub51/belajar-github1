@@ -9,3 +9,10 @@ Rencana belajar OOP
 - Belajar Enterprise Architecture
 - Belajar Koneksi Database 
 - Belajar Debuging 
+Membuat Project Perpustakaan :
+- Membuat Fitur Login 
+- Membuat Fitur Data Buku 
+- Membuat Fitur Peminjaman Buku 
+- Membuat Fitur Pengembalian Buku
+- Membuat Fitur Laporan Peminjaman 
+- Membuat Firur Help 
